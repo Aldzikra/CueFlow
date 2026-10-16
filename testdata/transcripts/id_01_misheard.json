@@ -1,0 +1,1130 @@
+[
+ {
+  "word": "halo",
+  "isFinal": true,
+  "start": 0,
+  "end": 0.359
+ },
+ {
+  "word": "semuanya",
+  "isFinal": true,
+  "start": 0.409,
+  "end": 0.766
+ },
+ {
+  "word": "selamat",
+  "isFinal": true,
+  "start": 0.816,
+  "end": 1.065
+ },
+ {
+  "word": "datang",
+  "isFinal": true,
+  "start": 1.115,
+  "end": 1.537
+ },
+ {
+  "word": "kembali",
+  "isFinal": true,
+  "start": 1.587,
+  "end": 1.929
+ },
+ {
+  "word": "di",
+  "isFinal": true,
+  "start": 1.979,
+  "end": 2.338
+ },
+ {
+  "word": "channel",
+  "isFinal": true,
+  "start": 2.388,
+  "end": 2.648
+ },
+ {
+  "word": "inix",
+  "isFinal": true,
+  "start": 2.698,
+  "end": 3.067
+ },
+ {
+  "word": "hari",
+  "isFinal": true,
+  "start": 3.117,
+  "end": 3.489
+ },
+ {
+  "word": "ini",
+  "isFinal": true,
+  "start": 3.539,
+  "end": 3.808
+ },
+ {
+  "word": "kita",
+  "isFinal": true,
+  "start": 3.858,
+  "end": 4.177
+ },
+ {
+  "word": "akan",
+  "isFinal": true,
+  "start": 4.227,
+  "end": 4.597
+ },
+ {
+  "word": "membahas",
+  "isFinal": true,
+  "start": 4.647,
+  "end": 4.897
+ },
+ {
+  "word": "cara",
+  "isFinal": true,
+  "start": 4.947,
+  "end": 5.375
+ },
+ {
+  "word": "membuat",
+  "isFinal": true,
+  "start": 5.425,
+  "end": 5.666
+ },
+ {
+  "word": "konten",
+  "isFinal": true,
+  "start": 5.716,
+  "end": 6.003
+ },
+ {
+  "word": "yang",
+  "isFinal": true,
+  "start": 6.053,
+  "end": 6.254
+ },
+ {
+  "word": "konsisten",
+  "isFinal": true,
+  "start": 6.304,
+  "end": 6.741
+ },
+ {
+  "word": "tanpa",
+  "isFinal": true,
+  "start": 6.791,
+  "end": 7.164
+ },
+ {
+  "word": "harus",
+  "isFinal": true,
+  "start": 7.214,
+  "end": 7.615
+ },
+ {
+  "word": "begadag",
+  "isFinal": true,
+  "start": 7.665,
+  "end": 7.886
+ },
+ {
+  "word": "setiap",
+  "isFinal": true,
+  "start": 7.936,
+  "end": 8.364
+ },
+ {
+  "word": "malam",
+  "isFinal": true,
+  "start": 8.414,
+  "end": 8.836
+ },
+ {
+  "word": "kalau",
+  "isFinal": true,
+  "start": 8.886,
+  "end": 9.261
+ },
+ {
+  "word": "kamu",
+  "isFinal": true,
+  "start": 9.311,
+  "end": 9.593
+ },
+ {
+  "word": "baru",
+  "isFinal": true,
+  "start": 9.643,
+  "end": 9.858
+ },
+ {
+  "word": "bergabung",
+  "isFinal": true,
+  "start": 9.908,
+  "end": 10.265
+ },
+ {
+  "word": "jangan",
+  "isFinal": true,
+  "start": 10.315,
+  "end": 10.565
+ },
+ {
+  "word": "lupa",
+  "isFinal": true,
+  "start": 10.615,
+  "end": 11.025
+ },
+ {
+  "word": "dan",
+  "isFinal": true,
+  "start": 11.075,
+  "end": 11.39
+ },
+ {
+  "word": "nyalakan",
+  "isFinal": true,
+  "start": 11.44,
+  "end": 11.752
+ },
+ {
+  "word": "lonceng",
+  "isFinal": true,
+  "start": 11.802,
+  "end": 12.21
+ },
+ {
+  "word": "notifikasi",
+  "isFinal": true,
+  "start": 12.26,
+  "end": 12.493
+ },
+ {
+  "word": "supaya",
+  "isFinal": true,
+  "start": 12.543,
+  "end": 12.745
+ },
+ {
+  "word": "tidak",
+  "isFinal": true,
+  "start": 12.795,
+  "end": 13.032
+ },
+ {
+  "word": "ketinggalan",
+  "isFinal": true,
+  "start": 13.082,
+  "end": 13.365
+ },
+ {
+  "word": "video",
+  "isFinal": true,
+  "start": 13.415,
+  "end": 13.764
+ },
+ {
+  "word": "berikutnya",
+  "isFinal": true,
+  "start": 13.814,
+  "end": 14.261
+ },
+ {
+  "word": "pertama",
+  "isFinal": true,
+  "start": 14.311,
+  "end": 14.755
+ },
+ {
+  "word": "kamu",
+  "isFinal": true,
+  "start": 14.805,
+  "end": 15.119
+ },
+ {
+  "word": "perlu",
+  "isFinal": true,
+  "start": 15.169,
+  "end": 15.435
+ },
+ {
+  "word": "punya",
+  "isFinal": true,
+  "start": 15.485,
+  "end": 15.839
+ },
+ {
+  "word": "rencana",
+  "isFinal": true,
+  "start": 15.889,
+  "end": 16.237
+ },
+ {
+  "word": "mingguan",
+  "isFinal": true,
+  "start": 16.287,
+  "end": 16.492
+ },
+ {
+  "word": "yang",
+  "isFinal": true,
+  "start": 16.542,
+  "end": 16.84
+ },
+ {
+  "word": "jelas",
+  "isFinal": true,
+  "start": 16.89,
+  "end": 17.314
+ },
+ {
+  "word": "tulis",
+  "isFinal": true,
+  "start": 17.364,
+  "end": 17.596
+ },
+ {
+  "word": "tiga",
+  "isFinal": true,
+  "start": 17.646,
+  "end": 18
+ },
+ {
+  "word": "ide",
+  "isFinal": true,
+  "start": 18.05,
+  "end": 18.456
+ },
+ {
+  "word": "utama",
+  "isFinal": true,
+  "start": 18.506,
+  "end": 18.793
+ },
+ {
+  "word": "lalu",
+  "isFinal": true,
+  "start": 18.843,
+  "end": 19.102
+ },
+ {
+  "word": "pecah",
+  "isFinal": true,
+  "start": 19.152,
+  "end": 19.455
+ },
+ {
+  "word": "masing",
+  "isFinal": true,
+  "start": 19.505,
+  "end": 19.817
+ },
+ {
+  "word": "menjadi",
+  "isFinal": true,
+  "start": 19.867,
+  "end": 20.188
+ },
+ {
+  "word": "poin",
+  "isFinal": true,
+  "start": 20.238,
+  "end": 20.483
+ },
+ {
+  "word": "singkat",
+  "isFinal": true,
+  "start": 20.533,
+  "end": 20.9
+ },
+ {
+  "word": "yang",
+  "isFinal": true,
+  "start": 20.95,
+  "end": 21.318
+ },
+ {
+  "word": "mudah",
+  "isFinal": true,
+  "start": 21.368,
+  "end": 21.715
+ },
+ {
+  "word": "diingat",
+  "isFinal": true,
+  "start": 21.765,
+  "end": 22.027
+ },
+ {
+  "word": "dengan",
+  "isFinal": true,
+  "start": 22.077,
+  "end": 22.492
+ },
+ {
+  "word": "cara",
+  "isFinal": true,
+  "start": 22.542,
+  "end": 22.975
+ },
+ {
+  "word": "ini",
+  "isFinal": true,
+  "start": 23.025,
+  "end": 23.409
+ },
+ {
+  "word": "kamu",
+  "isFinal": true,
+  "start": 23.459,
+  "end": 23.879
+ },
+ {
+  "word": "tidak",
+  "isFinal": true,
+  "start": 23.929,
+  "end": 24.3
+ },
+ {
+  "word": "akan",
+  "isFinal": true,
+  "start": 24.35,
+  "end": 24.581
+ },
+ {
+  "word": "kehabisan",
+  "isFinal": true,
+  "start": 24.631,
+  "end": 24.951
+ },
+ {
+  "word": "bahan",
+  "isFinal": true,
+  "start": 25.001,
+  "end": 25.252
+ },
+ {
+  "word": "ketika",
+  "isFinal": true,
+  "start": 25.302,
+  "end": 25.64
+ },
+ {
+  "word": "kamera",
+  "isFinal": true,
+  "start": 25.69,
+  "end": 25.944
+ },
+ {
+  "word": "sudah",
+  "isFinal": true,
+  "start": 25.994,
+  "end": 26.443
+ },
+ {
+  "word": "menyala",
+  "isFinal": true,
+  "start": 26.493,
+  "end": 26.709
+ },
+ {
+  "word": "dan",
+  "isFinal": true,
+  "start": 26.759,
+  "end": 27.126
+ },
+ {
+  "word": "buku",
+  "isFinal": true,
+  "start": 27.176,
+  "end": 27.434
+ },
+ {
+  "word": "masih",
+  "isFinal": true,
+  "start": 27.484,
+  "end": 27.707
+ },
+ {
+  "word": "berantakan",
+  "isFinal": true,
+  "start": 27.757,
+  "end": 28.091
+ },
+ {
+  "word": "di",
+  "isFinal": true,
+  "start": 28.141,
+  "end": 28.355
+ },
+ {
+  "word": "meja",
+  "isFinal": true,
+  "start": 28.405,
+  "end": 28.73
+ },
+ {
+  "word": "kedua",
+  "isFinal": true,
+  "start": 28.78,
+  "end": 29.145
+ },
+ {
+  "word": "siapkan",
+  "isFinal": true,
+  "start": 29.195,
+  "end": 29.454
+ },
+ {
+  "word": "peralatan",
+  "isFinal": true,
+  "start": 29.504,
+  "end": 29.787
+ },
+ {
+  "word": "sederhana",
+  "isFinal": true,
+  "start": 29.837,
+  "end": 30.121
+ },
+ {
+  "word": "yang",
+  "isFinal": true,
+  "start": 30.171,
+  "end": 30.422
+ },
+ {
+  "word": "cukup",
+  "isFinal": true,
+  "start": 30.472,
+  "end": 30.709
+ },
+ {
+  "word": "kamu",
+  "isFinal": true,
+  "start": 30.759,
+  "end": 31.048
+ },
+ {
+  "word": "tidak",
+  "isFinal": true,
+  "start": 31.098,
+  "end": 31.37
+ },
+ {
+  "word": "mahal",
+  "isFinal": true,
+  "start": 31.42,
+  "end": 31.691
+ },
+ {
+  "word": "karena",
+  "isFinal": true,
+  "start": 31.741,
+  "end": 32.152
+ },
+ {
+  "word": "kualitas",
+  "isFinal": true,
+  "start": 32.202,
+  "end": 32.605
+ },
+ {
+  "word": "suara",
+  "isFinal": true,
+  "start": 32.655,
+  "end": 32.86
+ },
+ {
+  "word": "jauh",
+  "isFinal": true,
+  "start": 32.91,
+  "end": 33.12
+ },
+ {
+  "word": "lebih",
+  "isFinal": true,
+  "start": 33.17,
+  "end": 33.419
+ },
+ {
+  "word": "penting",
+  "isFinal": true,
+  "start": 33.469,
+  "end": 33.849
+ },
+ {
+  "word": "daripada",
+  "isFinal": true,
+  "start": 33.899,
+  "end": 34.176
+ },
+ {
+  "word": "gambar",
+  "isFinal": true,
+  "start": 34.226,
+  "end": 34.588
+ },
+ {
+  "word": "mikrofon",
+  "isFinal": true,
+  "start": 34.638,
+  "end": 34.973
+ },
+ {
+  "word": "seharga",
+  "isFinal": true,
+  "start": 35.023,
+  "end": 35.303
+ },
+ {
+  "word": "lima",
+  "isFinal": true,
+  "start": 35.353,
+  "end": 35.777
+ },
+ {
+  "word": "ratus",
+  "isFinal": true,
+  "start": 35.827,
+  "end": 36.194
+ },
+ {
+  "word": "ribu",
+  "isFinal": true,
+  "start": 36.244,
+  "end": 36.485
+ },
+ {
+  "word": "rupiah",
+  "isFinal": true,
+  "start": 36.535,
+  "end": 36.793
+ },
+ {
+  "word": "saja",
+  "isFinal": true,
+  "start": 36.843,
+  "end": 37.274
+ },
+ {
+  "word": "sudah",
+  "isFinal": true,
+  "start": 37.324,
+  "end": 37.724
+ },
+ {
+  "word": "bisa",
+  "isFinal": true,
+  "start": 37.774,
+  "end": 38.018
+ },
+ {
+  "word": "membuat",
+  "isFinal": true,
+  "start": 38.068,
+  "end": 38.385
+ },
+ {
+  "word": "videomu",
+  "isFinal": true,
+  "start": 38.435,
+  "end": 38.644
+ },
+ {
+  "word": "terdengar",
+  "isFinal": true,
+  "start": 38.694,
+  "end": 38.941
+ },
+ {
+  "word": "profesional",
+  "isFinal": true,
+  "start": 38.991,
+  "end": 39.402
+ },
+ {
+  "word": "dan",
+  "isFinal": true,
+  "start": 39.452,
+  "end": 39.821
+ },
+ {
+  "word": "pencahayaan",
+  "isFinal": true,
+  "start": 39.871,
+  "end": 40.114
+ },
+ {
+  "word": "dari",
+  "isFinal": true,
+  "start": 40.164,
+  "end": 40.488
+ },
+ {
+  "word": "jendela",
+  "isFinal": true,
+  "start": 40.538,
+  "end": 40.805
+ },
+ {
+  "word": "gratis",
+  "isFinal": true,
+  "start": 40.855,
+  "end": 41.292
+ },
+ {
+  "word": "rekam",
+  "isFinal": true,
+  "start": 41.342,
+  "end": 41.703
+ },
+ {
+  "word": "dalam",
+  "isFinal": true,
+  "start": 41.753,
+  "end": 42.093
+ },
+ {
+  "word": "potongan",
+  "isFinal": true,
+  "start": 42.143,
+  "end": 42.52
+ },
+ {
+  "word": "pendek",
+  "isFinal": true,
+  "start": 42.57,
+  "end": 42.991
+ },
+ {
+  "word": "jangan",
+  "isFinal": true,
+  "start": 43.041,
+  "end": 43.271
+ },
+ {
+  "word": "takut",
+  "isFinal": true,
+  "start": 43.321,
+  "end": 43.587
+ },
+ {
+  "word": "mengulang",
+  "isFinal": true,
+  "start": 43.637,
+  "end": 44.044
+ },
+ {
+  "word": "banyk",
+  "isFinal": true,
+  "start": 44.094,
+  "end": 44.476
+ },
+ {
+  "word": "kreator",
+  "isFinal": true,
+  "start": 44.526,
+  "end": 44.894
+ },
+ {
+  "word": "yang",
+  "isFinal": true,
+  "start": 44.944,
+  "end": 45.224
+ },
+ {
+  "word": "menyerah",
+  "isFinal": true,
+  "start": 45.274,
+  "end": 45.681
+ },
+ {
+  "word": "karena",
+  "isFinal": true,
+  "start": 45.731,
+  "end": 46.103
+ },
+ {
+  "word": "ingin",
+  "isFinal": true,
+  "start": 46.153,
+  "end": 46.362
+ },
+ {
+  "word": "semuanya",
+  "isFinal": true,
+  "start": 46.412,
+  "end": 46.771
+ },
+ {
+  "word": "sempurna",
+  "isFinal": true,
+  "start": 46.821,
+  "end": 47.129
+ },
+ {
+  "word": "dalam",
+  "isFinal": true,
+  "start": 47.179,
+  "end": 47.49
+ },
+ {
+  "word": "sekali",
+  "isFinal": true,
+  "start": 47.54,
+  "end": 47.945
+ },
+ {
+  "word": "ambl",
+  "isFinal": true,
+  "start": 47.995,
+  "end": 48.315
+ },
+ {
+  "word": "sekitar",
+  "isFinal": true,
+  "start": 48.365,
+  "end": 48.576
+ },
+ {
+  "word": "delapan",
+  "isFinal": true,
+  "start": 48.626,
+  "end": 49.006
+ },
+ {
+  "word": "puluh",
+  "isFinal": true,
+  "start": 49.056,
+  "end": 49.257
+ },
+ {
+  "word": "persen",
+  "isFinal": true,
+  "start": 49.307,
+  "end": 49.539
+ },
+ {
+  "word": "penonton",
+  "isFinal": true,
+  "start": 49.589,
+  "end": 50.005
+ },
+ {
+  "word": "lebih",
+  "isFinal": true,
+  "start": 50.055,
+  "end": 50.494
+ },
+ {
+  "word": "peduli",
+  "isFinal": true,
+  "start": 50.544,
+  "end": 50.893
+ },
+ {
+  "word": "pada",
+  "isFinal": true,
+  "start": 50.943,
+  "end": 51.148
+ },
+ {
+  "word": "isi",
+  "isFinal": true,
+  "start": 51.198,
+  "end": 51.618
+ },
+ {
+  "word": "yang",
+  "isFinal": true,
+  "start": 51.668,
+  "end": 52.099
+ },
+ {
+  "word": "berguna",
+  "isFinal": true,
+  "start": 52.149,
+  "end": 52.36
+ },
+ {
+  "word": "daripada",
+  "isFinal": true,
+  "start": 52.41,
+  "end": 52.641
+ },
+ {
+  "word": "pada",
+  "isFinal": true,
+  "start": 52.691,
+  "end": 52.968
+ },
+ {
+  "word": "kesalahan",
+  "isFinal": true,
+  "start": 53.018,
+  "end": 53.335
+ },
+ {
+  "word": "kecil",
+  "isFinal": true,
+  "start": 53.385,
+  "end": 53.833
+ },
+ {
+  "word": "di",
+  "isFinal": true,
+  "start": 53.883,
+  "end": 54.223
+ },
+ {
+  "word": "tengah",
+  "isFinal": true,
+  "start": 54.273,
+  "end": 54.635
+ },
+ {
+  "word": "kalimat",
+  "isFinal": true,
+  "start": 54.685,
+  "end": 55.041
+ },
+ {
+  "word": "terakhir",
+  "isFinal": true,
+  "start": 55.091,
+  "end": 55.426
+ },
+ {
+  "word": "konsisten",
+  "isFinal": true,
+  "start": 55.476,
+  "end": 55.767
+ },
+ {
+  "word": "itu",
+  "isFinal": true,
+  "start": 55.817,
+  "end": 56.237
+ },
+ {
+  "word": "kunci",
+  "isFinal": true,
+  "start": 56.287,
+  "end": 56.521
+ },
+ {
+  "word": "utama",
+  "isFinal": true,
+  "start": 56.571,
+  "end": 56.927
+ },
+ {
+  "word": "pada",
+  "isFinal": true,
+  "start": 56.977,
+  "end": 57.336
+ },
+ {
+  "word": "tahun",
+  "isFinal": true,
+  "start": 57.386,
+  "end": 57.788
+ },
+ {
+  "word": "dua",
+  "isFinal": true,
+  "start": 57.838,
+  "end": 58.208
+ },
+ {
+  "word": "ribux",
+  "isFinal": true,
+  "start": 58.258,
+  "end": 58.599
+ },
+ {
+  "word": "dua",
+  "isFinal": true,
+  "start": 58.649,
+  "end": 59.054
+ },
+ {
+  "word": "enam",
+  "isFinal": true,
+  "start": 59.104,
+  "end": 59.309
+ },
+ {
+  "word": "ini",
+  "isFinal": true,
+  "start": 59.359,
+  "end": 59.706
+ },
+ {
+  "word": "persaingan",
+  "isFinal": true,
+  "start": 59.756,
+  "end": 60.117
+ },
+ {
+  "word": "memang",
+  "isFinal": true,
+  "start": 60.167,
+  "end": 60.444
+ },
+ {
+  "word": "semakin",
+  "isFinal": true,
+  "start": 60.494,
+  "end": 60.894
+ },
+ {
+  "word": "ketat",
+  "isFinal": true,
+  "start": 60.944,
+  "end": 61.201
+ },
+ {
+  "word": "tetai",
+  "isFinal": true,
+  "start": 61.251,
+  "end": 61.54
+ },
+ {
+  "word": "penonton",
+  "isFinal": true,
+  "start": 61.59,
+  "end": 61.833
+ },
+ {
+  "word": "selalu",
+  "isFinal": true,
+  "start": 61.883,
+  "end": 62.25
+ },
+ {
+  "word": "mencari",
+  "isFinal": true,
+  "start": 62.3,
+  "end": 62.517
+ },
+ {
+  "word": "suaa",
+  "isFinal": true,
+  "start": 62.567,
+  "end": 62.866
+ },
+ {
+  "word": "yang",
+  "isFinal": true,
+  "start": 62.916,
+  "end": 63.231
+ },
+ {
+  "word": "jujur",
+  "isFinal": true,
+  "start": 63.281,
+  "end": 63.696
+ },
+ {
+  "word": "dan",
+  "isFinal": true,
+  "start": 63.746,
+  "end": 64.088
+ },
+ {
+  "word": "apa",
+  "isFinal": true,
+  "start": 64.138,
+  "end": 64.407
+ },
+ {
+  "word": "adanya",
+  "isFinal": true,
+  "start": 64.457,
+  "end": 64.813
+ },
+ {
+  "word": "kasih",
+  "isFinal": true,
+  "start": 64.863,
+  "end": 65.193
+ },
+ {
+  "word": "sudah",
+  "isFinal": true,
+  "start": 65.243,
+  "end": 65.497
+ },
+ {
+  "word": "menonton",
+  "isFinal": true,
+  "start": 65.547,
+  "end": 65.871
+ },
+ {
+  "word": "sampai",
+  "isFinal": true,
+  "start": 65.921,
+  "end": 66.331
+ },
+ {
+  "word": "habis",
+  "isFinal": true,
+  "start": 66.381,
+  "end": 66.649
+ },
+ {
+  "word": "sampai",
+  "isFinal": true,
+  "start": 66.699,
+  "end": 66.997
+ },
+ {
+  "word": "jumpa",
+  "isFinal": true,
+  "start": 67.047,
+  "end": 67.341
+ },
+ {
+  "word": "di",
+  "isFinal": true,
+  "start": 67.391,
+  "end": 67.758
+ },
+ {
+  "word": "video",
+  "isFinal": true,
+  "start": 67.808,
+  "end": 68.203
+ },
+ {
+  "word": "selanjutnya",
+  "isFinal": true,
+  "start": 68.253,
+  "end": 68.698
+ },
+ {
+  "word": "dan",
+  "isFinal": true,
+  "start": 68.748,
+  "end": 69.188
+ },
+ {
+  "word": "tetap",
+  "isFinal": true,
+  "start": 69.238,
+  "end": 69.472
+ },
+ {
+  "word": "semangat",
+  "isFinal": true,
+  "start": 69.522,
+  "end": 69.968
+ },
+ {
+  "word": "berkarya",
+  "isFinal": true,
+  "start": 70.018,
+  "end": 70.354
+ }
+]

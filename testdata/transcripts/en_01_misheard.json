@@ -1,0 +1,1334 @@
+[
+ {
+  "word": "hey",
+  "isFinal": true,
+  "start": 0,
+  "end": 0.202
+ },
+ {
+  "word": "everyone",
+  "isFinal": true,
+  "start": 0.252,
+  "end": 0.483
+ },
+ {
+  "word": "welcome",
+  "isFinal": true,
+  "start": 0.533,
+  "end": 0.949
+ },
+ {
+  "word": "back",
+  "isFinal": true,
+  "start": 0.999,
+  "end": 1.438
+ },
+ {
+  "word": "to",
+  "isFinal": true,
+  "start": 1.488,
+  "end": 1.837
+ },
+ {
+  "word": "today",
+  "isFinal": true,
+  "start": 1.887,
+  "end": 2.093
+ },
+ {
+  "word": "we",
+  "isFinal": true,
+  "start": 2.143,
+  "end": 2.562
+ },
+ {
+  "word": "are",
+  "isFinal": true,
+  "start": 2.612,
+  "end": 3.043
+ },
+ {
+  "word": "going",
+  "isFinal": true,
+  "start": 3.093,
+  "end": 3.304
+ },
+ {
+  "word": "to",
+  "isFinal": true,
+  "start": 3.354,
+  "end": 3.585
+ },
+ {
+  "word": "talk",
+  "isFinal": true,
+  "start": 3.635,
+  "end": 3.913
+ },
+ {
+  "word": "about",
+  "isFinal": true,
+  "start": 3.963,
+  "end": 4.279
+ },
+ {
+  "word": "how",
+  "isFinal": true,
+  "start": 4.329,
+  "end": 4.777
+ },
+ {
+  "word": "to",
+  "isFinal": true,
+  "start": 4.827,
+  "end": 5.167
+ },
+ {
+  "word": "make",
+  "isFinal": true,
+  "start": 5.217,
+  "end": 5.579
+ },
+ {
+  "word": "videos",
+  "isFinal": true,
+  "start": 5.629,
+  "end": 5.985
+ },
+ {
+  "word": "consistently",
+  "isFinal": true,
+  "start": 6.035,
+  "end": 6.37
+ },
+ {
+  "word": "without",
+  "isFinal": true,
+  "start": 6.42,
+  "end": 6.712
+ },
+ {
+  "word": "staying",
+  "isFinal": true,
+  "start": 6.762,
+  "end": 7.181
+ },
+ {
+  "word": "up",
+  "isFinal": true,
+  "start": 7.231,
+  "end": 7.465
+ },
+ {
+  "word": "all",
+  "isFinal": true,
+  "start": 7.515,
+  "end": 7.871
+ },
+ {
+  "word": "night",
+  "isFinal": true,
+  "start": 7.921,
+  "end": 8.28
+ },
+ {
+  "word": "if",
+  "isFinal": true,
+  "start": 8.33,
+  "end": 8.732
+ },
+ {
+  "word": "you",
+  "isFinal": true,
+  "start": 8.782,
+  "end": 9.152
+ },
+ {
+  "word": "are",
+  "isFinal": true,
+  "start": 9.202,
+  "end": 9.544
+ },
+ {
+  "word": "new",
+  "isFinal": true,
+  "start": 9.594,
+  "end": 9.999
+ },
+ {
+  "word": "here",
+  "isFinal": true,
+  "start": 10.049,
+  "end": 10.253
+ },
+ {
+  "word": "make",
+  "isFinal": true,
+  "start": 10.303,
+  "end": 10.65
+ },
+ {
+  "word": "sure",
+  "isFinal": true,
+  "start": 10.7,
+  "end": 11.062
+ },
+ {
+  "word": "you",
+  "isFinal": true,
+  "start": 11.112,
+  "end": 11.388
+ },
+ {
+  "word": "subscribe",
+  "isFinal": true,
+  "start": 11.438,
+  "end": 11.838
+ },
+ {
+  "word": "hit",
+  "isFinal": true,
+  "start": 11.888,
+  "end": 12.145
+ },
+ {
+  "word": "bell",
+  "isFinal": true,
+  "start": 12.195,
+  "end": 12.484
+ },
+ {
+  "word": "so",
+  "isFinal": true,
+  "start": 12.534,
+  "end": 12.777
+ },
+ {
+  "word": "you",
+  "isFinal": true,
+  "start": 12.827,
+  "end": 13.194
+ },
+ {
+  "word": "do",
+  "isFinal": true,
+  "start": 13.244,
+  "end": 13.461
+ },
+ {
+  "word": "miss",
+  "isFinal": true,
+  "start": 13.511,
+  "end": 13.81
+ },
+ {
+  "word": "the",
+  "isFinal": true,
+  "start": 13.86,
+  "end": 14.175
+ },
+ {
+  "word": "next",
+  "isFinal": true,
+  "start": 14.225,
+  "end": 14.641
+ },
+ {
+  "word": "onex",
+  "isFinal": true,
+  "start": 14.691,
+  "end": 15.033
+ },
+ {
+  "word": "first",
+  "isFinal": true,
+  "start": 15.083,
+  "end": 15.351
+ },
+ {
+  "word": "you",
+  "isFinal": true,
+  "start": 15.401,
+  "end": 15.758
+ },
+ {
+  "word": "need",
+  "isFinal": true,
+  "start": 15.808,
+  "end": 16.137
+ },
+ {
+  "word": "a",
+  "isFinal": true,
+  "start": 16.187,
+  "end": 16.441
+ },
+ {
+  "word": "clear",
+  "isFinal": true,
+  "start": 16.491,
+  "end": 16.815
+ },
+ {
+  "word": "weekly",
+  "isFinal": true,
+  "start": 16.865,
+  "end": 17.275
+ },
+ {
+  "word": "plan",
+  "isFinal": true,
+  "start": 17.325,
+  "end": 17.593
+ },
+ {
+  "word": "write",
+  "isFinal": true,
+  "start": 17.643,
+  "end": 17.941
+ },
+ {
+  "word": "down",
+  "isFinal": true,
+  "start": 17.991,
+  "end": 18.286
+ },
+ {
+  "word": "thre",
+  "isFinal": true,
+  "start": 18.336,
+  "end": 18.702
+ },
+ {
+  "word": "ideas",
+  "isFinal": true,
+  "start": 18.752,
+  "end": 19.147
+ },
+ {
+  "word": "then",
+  "isFinal": true,
+  "start": 19.197,
+  "end": 19.642
+ },
+ {
+  "word": "break",
+  "isFinal": true,
+  "start": 19.692,
+  "end": 20.132
+ },
+ {
+  "word": "each",
+  "isFinal": true,
+  "start": 20.182,
+  "end": 20.417
+ },
+ {
+  "word": "one",
+  "isFinal": true,
+  "start": 20.467,
+  "end": 20.912
+ },
+ {
+  "word": "into",
+  "isFinal": true,
+  "start": 20.962,
+  "end": 21.298
+ },
+ {
+  "word": "short",
+  "isFinal": true,
+  "start": 21.348,
+  "end": 21.59
+ },
+ {
+  "word": "bullet",
+  "isFinal": true,
+  "start": 21.64,
+  "end": 21.903
+ },
+ {
+  "word": "points",
+  "isFinal": true,
+  "start": 21.953,
+  "end": 22.325
+ },
+ {
+  "word": "that",
+  "isFinal": true,
+  "start": 22.375,
+  "end": 22.669
+ },
+ {
+  "word": "are",
+  "isFinal": true,
+  "start": 22.719,
+  "end": 23.031
+ },
+ {
+  "word": "easy",
+  "isFinal": true,
+  "start": 23.081,
+  "end": 23.346
+ },
+ {
+  "word": "to",
+  "isFinal": true,
+  "start": 23.396,
+  "end": 23.614
+ },
+ {
+  "word": "remember",
+  "isFinal": true,
+  "start": 23.664,
+  "end": 24.085
+ },
+ {
+  "word": "that",
+  "isFinal": true,
+  "start": 24.135,
+  "end": 24.397
+ },
+ {
+  "word": "way",
+  "isFinal": true,
+  "start": 24.447,
+  "end": 24.812
+ },
+ {
+  "word": "you",
+  "isFinal": true,
+  "start": 24.862,
+  "end": 25.11
+ },
+ {
+  "word": "will",
+  "isFinal": true,
+  "start": 25.16,
+  "end": 25.425
+ },
+ {
+  "word": "not",
+  "isFinal": true,
+  "start": 25.475,
+  "end": 25.915
+ },
+ {
+  "word": "run",
+  "isFinal": true,
+  "start": 25.965,
+  "end": 26.252
+ },
+ {
+  "word": "out",
+  "isFinal": true,
+  "start": 26.302,
+  "end": 26.73
+ },
+ {
+  "word": "of",
+  "isFinal": true,
+  "start": 26.78,
+  "end": 27.164
+ },
+ {
+  "word": "things",
+  "isFinal": true,
+  "start": 27.214,
+  "end": 27.642
+ },
+ {
+  "word": "to",
+  "isFinal": true,
+  "start": 27.692,
+  "end": 27.894
+ },
+ {
+  "word": "say",
+  "isFinal": true,
+  "start": 27.944,
+  "end": 28.224
+ },
+ {
+  "word": "once",
+  "isFinal": true,
+  "start": 28.274,
+  "end": 28.672
+ },
+ {
+  "word": "thex",
+  "isFinal": true,
+  "start": 28.722,
+  "end": 28.967
+ },
+ {
+  "word": "camera",
+  "isFinal": true,
+  "start": 29.017,
+  "end": 29.414
+ },
+ {
+  "word": "rolling",
+  "isFinal": true,
+  "start": 29.464,
+  "end": 29.867
+ },
+ {
+  "word": "and",
+  "isFinal": true,
+  "start": 29.917,
+  "end": 30.161
+ },
+ {
+  "word": "your",
+  "isFinal": true,
+  "start": 30.211,
+  "end": 30.555
+ },
+ {
+  "word": "notes",
+  "isFinal": true,
+  "start": 30.605,
+  "end": 30.95
+ },
+ {
+  "word": "are",
+  "isFinal": true,
+  "start": 31,
+  "end": 31.26
+ },
+ {
+  "word": "still",
+  "isFinal": true,
+  "start": 31.31,
+  "end": 31.656
+ },
+ {
+  "word": "ax",
+  "isFinal": true,
+  "start": 31.706,
+  "end": 32.078
+ },
+ {
+  "word": "mess",
+  "isFinal": true,
+  "start": 32.128,
+  "end": 32.577
+ },
+ {
+  "word": "on",
+  "isFinal": true,
+  "start": 32.627,
+  "end": 32.89
+ },
+ {
+  "word": "the",
+  "isFinal": true,
+  "start": 32.94,
+  "end": 33.173
+ },
+ {
+  "word": "deskx",
+  "isFinal": true,
+  "start": 33.223,
+  "end": 33.57
+ },
+ {
+  "word": "second",
+  "isFinal": true,
+  "start": 33.62,
+  "end": 33.919
+ },
+ {
+  "word": "get",
+  "isFinal": true,
+  "start": 33.969,
+  "end": 34.408
+ },
+ {
+  "word": "simple",
+  "isFinal": true,
+  "start": 34.458,
+  "end": 34.717
+ },
+ {
+  "word": "gear",
+  "isFinal": true,
+  "start": 34.767,
+  "end": 35.072
+ },
+ {
+  "word": "that",
+  "isFinal": true,
+  "start": 35.122,
+  "end": 35.503
+ },
+ {
+  "word": "good",
+  "isFinal": true,
+  "start": 35.553,
+  "end": 35.757
+ },
+ {
+  "word": "enough",
+  "isFinal": true,
+  "start": 35.807,
+  "end": 36.099
+ },
+ {
+  "word": "you",
+  "isFinal": true,
+  "start": 36.149,
+  "end": 36.513
+ },
+ {
+  "word": "do",
+  "isFinal": true,
+  "start": 36.563,
+  "end": 36.987
+ },
+ {
+  "word": "not",
+  "isFinal": true,
+  "start": 37.037,
+  "end": 37.291
+ },
+ {
+  "word": "need",
+  "isFinal": true,
+  "start": 37.341,
+  "end": 37.545
+ },
+ {
+  "word": "an",
+  "isFinal": true,
+  "start": 37.595,
+  "end": 37.976
+ },
+ {
+  "word": "expensive",
+  "isFinal": true,
+  "start": 38.026,
+  "end": 38.384
+ },
+ {
+  "word": "camera",
+  "isFinal": true,
+  "start": 38.434,
+  "end": 38.772
+ },
+ {
+  "word": "because",
+  "isFinal": true,
+  "start": 38.822,
+  "end": 39.227
+ },
+ {
+  "word": "audio",
+  "isFinal": true,
+  "start": 39.277,
+  "end": 39.597
+ },
+ {
+  "word": "quality",
+  "isFinal": true,
+  "start": 39.647,
+  "end": 39.853
+ },
+ {
+  "word": "matters",
+  "isFinal": true,
+  "start": 39.903,
+  "end": 40.332
+ },
+ {
+  "word": "far",
+  "isFinal": true,
+  "start": 40.382,
+  "end": 40.818
+ },
+ {
+  "word": "more",
+  "isFinal": true,
+  "start": 40.868,
+  "end": 41.2
+ },
+ {
+  "word": "than",
+  "isFinal": true,
+  "start": 41.25,
+  "end": 41.681
+ },
+ {
+  "word": "the",
+  "isFinal": true,
+  "start": 41.731,
+  "end": 42.024
+ },
+ {
+  "word": "picture",
+  "isFinal": true,
+  "start": 42.074,
+  "end": 42.301
+ },
+ {
+  "word": "a",
+  "isFinal": true,
+  "start": 42.351,
+  "end": 42.745
+ },
+ {
+  "word": "microphone",
+  "isFinal": true,
+  "start": 42.795,
+  "end": 43.189
+ },
+ {
+  "word": "around",
+  "isFinal": true,
+  "start": 43.239,
+  "end": 43.627
+ },
+ {
+  "word": "fifty",
+  "isFinal": true,
+  "start": 43.677,
+  "end": 44.059
+ },
+ {
+  "word": "dollars",
+  "isFinal": true,
+  "start": 44.109,
+  "end": 44.422
+ },
+ {
+  "word": "can",
+  "isFinal": true,
+  "start": 44.472,
+  "end": 44.921
+ },
+ {
+  "word": "make",
+  "isFinal": true,
+  "start": 44.971,
+  "end": 45.235
+ },
+ {
+  "word": "yourx",
+  "isFinal": true,
+  "start": 45.285,
+  "end": 45.588
+ },
+ {
+  "word": "video",
+  "isFinal": true,
+  "start": 45.638,
+  "end": 45.953
+ },
+ {
+  "word": "sound",
+  "isFinal": true,
+  "start": 46.003,
+  "end": 46.337
+ },
+ {
+  "word": "professionl",
+  "isFinal": true,
+  "start": 46.387,
+  "end": 46.803
+ },
+ {
+  "word": "and",
+  "isFinal": true,
+  "start": 46.853,
+  "end": 47.092
+ },
+ {
+  "word": "the",
+  "isFinal": true,
+  "start": 47.142,
+  "end": 47.554
+ },
+ {
+  "word": "light",
+  "isFinal": true,
+  "start": 47.604,
+  "end": 47.967
+ },
+ {
+  "word": "fromx",
+  "isFinal": true,
+  "start": 48.017,
+  "end": 48.218
+ },
+ {
+  "word": "a",
+  "isFinal": true,
+  "start": 48.268,
+  "end": 48.667
+ },
+ {
+  "word": "window",
+  "isFinal": true,
+  "start": 48.717,
+  "end": 49.147
+ },
+ {
+  "word": "is",
+  "isFinal": true,
+  "start": 49.197,
+  "end": 49.605
+ },
+ {
+  "word": "completely",
+  "isFinal": true,
+  "start": 49.655,
+  "end": 49.91
+ },
+ {
+  "word": "free",
+  "isFinal": true,
+  "start": 49.96,
+  "end": 50.26
+ },
+ {
+  "word": "third",
+  "isFinal": true,
+  "start": 50.31,
+  "end": 50.525
+ },
+ {
+  "word": "in",
+  "isFinal": true,
+  "start": 50.575,
+  "end": 50.972
+ },
+ {
+  "word": "short",
+  "isFinal": true,
+  "start": 51.022,
+  "end": 51.277
+ },
+ {
+  "word": "pieces",
+  "isFinal": true,
+  "start": 51.327,
+  "end": 51.766
+ },
+ {
+  "word": "and",
+  "isFinal": true,
+  "start": 51.816,
+  "end": 52.158
+ },
+ {
+  "word": "do",
+  "isFinal": true,
+  "start": 52.208,
+  "end": 52.474
+ },
+ {
+  "word": "not",
+  "isFinal": true,
+  "start": 52.524,
+  "end": 52.873
+ },
+ {
+  "word": "be",
+  "isFinal": true,
+  "start": 52.923,
+  "end": 53.351
+ },
+ {
+  "word": "afraid",
+  "isFinal": true,
+  "start": 53.401,
+  "end": 53.792
+ },
+ {
+  "word": "redo",
+  "isFinal": true,
+  "start": 53.842,
+  "end": 54.243
+ },
+ {
+  "word": "them",
+  "isFinal": true,
+  "start": 54.293,
+  "end": 54.571
+ },
+ {
+  "word": "many",
+  "isFinal": true,
+  "start": 54.621,
+  "end": 55.031
+ },
+ {
+  "word": "creators",
+  "isFinal": true,
+  "start": 55.081,
+  "end": 55.476
+ },
+ {
+  "word": "give",
+  "isFinal": true,
+  "start": 55.526,
+  "end": 55.94
+ },
+ {
+  "word": "up",
+  "isFinal": true,
+  "start": 55.99,
+  "end": 56.266
+ },
+ {
+  "word": "because",
+  "isFinal": true,
+  "start": 56.316,
+  "end": 56.635
+ },
+ {
+  "word": "they",
+  "isFinal": true,
+  "start": 56.685,
+  "end": 57.116
+ },
+ {
+  "word": "want",
+  "isFinal": true,
+  "start": 57.166,
+  "end": 57.492
+ },
+ {
+  "word": "everything",
+  "isFinal": true,
+  "start": 57.542,
+  "end": 57.753
+ },
+ {
+  "word": "perfect",
+  "isFinal": true,
+  "start": 57.803,
+  "end": 58.17
+ },
+ {
+  "word": "in",
+  "isFinal": true,
+  "start": 58.22,
+  "end": 58.506
+ },
+ {
+  "word": "a",
+  "isFinal": true,
+  "start": 58.556,
+  "end": 59.001
+ },
+ {
+  "word": "single",
+  "isFinal": true,
+  "start": 59.051,
+  "end": 59.454
+ },
+ {
+  "word": "take",
+  "isFinal": true,
+  "start": 59.504,
+  "end": 59.87
+ },
+ {
+  "word": "in",
+  "isFinal": true,
+  "start": 59.92,
+  "end": 60.258
+ },
+ {
+  "word": "reality",
+  "isFinal": true,
+  "start": 60.308,
+  "end": 60.618
+ },
+ {
+  "word": "about",
+  "isFinal": true,
+  "start": 60.668,
+  "end": 61.059
+ },
+ {
+  "word": "eighty",
+  "isFinal": true,
+  "start": 61.109,
+  "end": 61.465
+ },
+ {
+  "word": "percent",
+  "isFinal": true,
+  "start": 61.515,
+  "end": 61.757
+ },
+ {
+  "word": "of",
+  "isFinal": true,
+  "start": 61.807,
+  "end": 62.064
+ },
+ {
+  "word": "viewers",
+  "isFinal": true,
+  "start": 62.114,
+  "end": 62.516
+ },
+ {
+  "word": "care",
+  "isFinal": true,
+  "start": 62.566,
+  "end": 62.981
+ },
+ {
+  "word": "more",
+  "isFinal": true,
+  "start": 63.031,
+  "end": 63.461
+ },
+ {
+  "word": "about",
+  "isFinal": true,
+  "start": 63.511,
+  "end": 63.734
+ },
+ {
+  "word": "usefl",
+  "isFinal": true,
+  "start": 63.784,
+  "end": 63.987
+ },
+ {
+  "word": "content",
+  "isFinal": true,
+  "start": 64.037,
+  "end": 64.387
+ },
+ {
+  "word": "thanx",
+  "isFinal": true,
+  "start": 64.437,
+  "end": 64.77
+ },
+ {
+  "word": "abot",
+  "isFinal": true,
+  "start": 64.82,
+  "end": 65.106
+ },
+ {
+  "word": "a",
+  "isFinal": true,
+  "start": 65.156,
+  "end": 65.53
+ },
+ {
+  "word": "small",
+  "isFinal": true,
+  "start": 65.58,
+  "end": 65.881
+ },
+ {
+  "word": "slip",
+  "isFinal": true,
+  "start": 65.931,
+  "end": 66.192
+ },
+ {
+  "word": "in",
+  "isFinal": true,
+  "start": 66.242,
+  "end": 66.644
+ },
+ {
+  "word": "the",
+  "isFinal": true,
+  "start": 66.694,
+  "end": 67.029
+ },
+ {
+  "word": "middle",
+  "isFinal": true,
+  "start": 67.079,
+  "end": 67.371
+ },
+ {
+  "word": "of",
+  "isFinal": true,
+  "start": 67.421,
+  "end": 67.845
+ },
+ {
+  "word": "a",
+  "isFinal": true,
+  "start": 67.895,
+  "end": 68.229
+ },
+ {
+  "word": "sentence",
+  "isFinal": true,
+  "start": 68.279,
+  "end": 68.648
+ },
+ {
+  "word": "finally",
+  "isFinal": true,
+  "start": 68.698,
+  "end": 69.147
+ },
+ {
+  "word": "consistency",
+  "isFinal": true,
+  "start": 69.197,
+  "end": 69.402
+ },
+ {
+  "word": "the",
+  "isFinal": true,
+  "start": 69.452,
+  "end": 69.874
+ },
+ {
+  "word": "real",
+  "isFinal": true,
+  "start": 69.924,
+  "end": 70.34
+ },
+ {
+  "word": "secret",
+  "isFinal": true,
+  "start": 70.39,
+  "end": 70.758
+ },
+ {
+  "word": "in",
+  "isFinal": true,
+  "start": 70.808,
+  "end": 71.162
+ },
+ {
+  "word": "twenty",
+  "isFinal": true,
+  "start": 71.212,
+  "end": 71.431
+ },
+ {
+  "word": "twenty",
+  "isFinal": true,
+  "start": 71.481,
+  "end": 71.92
+ },
+ {
+  "word": "six",
+  "isFinal": true,
+  "start": 71.97,
+  "end": 72.196
+ },
+ {
+  "word": "the",
+  "isFinal": true,
+  "start": 72.246,
+  "end": 72.609
+ },
+ {
+  "word": "competition",
+  "isFinal": true,
+  "start": 72.659,
+  "end": 72.99
+ },
+ {
+  "word": "is",
+  "isFinal": true,
+  "start": 73.04,
+  "end": 73.411
+ },
+ {
+  "word": "tougher",
+  "isFinal": true,
+  "start": 73.461,
+  "end": 73.797
+ },
+ {
+  "word": "than",
+  "isFinal": true,
+  "start": 73.847,
+  "end": 74.133
+ },
+ {
+  "word": "ever",
+  "isFinal": true,
+  "start": 74.183,
+  "end": 74.448
+ },
+ {
+  "word": "but",
+  "isFinal": true,
+  "start": 74.498,
+  "end": 74.705
+ },
+ {
+  "word": "will",
+  "isFinal": true,
+  "start": 74.755,
+  "end": 75.165
+ },
+ {
+  "word": "always",
+  "isFinal": true,
+  "start": 75.215,
+  "end": 75.441
+ },
+ {
+  "word": "look",
+  "isFinal": true,
+  "start": 75.491,
+  "end": 75.759
+ },
+ {
+  "word": "for",
+  "isFinal": true,
+  "start": 75.809,
+  "end": 76.254
+ },
+ {
+  "word": "an",
+  "isFinal": true,
+  "start": 76.304,
+  "end": 76.694
+ },
+ {
+  "word": "honest",
+  "isFinal": true,
+  "start": 76.744,
+  "end": 77.029
+ },
+ {
+  "word": "voice",
+  "isFinal": true,
+  "start": 77.079,
+  "end": 77.28
+ },
+ {
+  "word": "that",
+  "isFinal": true,
+  "start": 77.33,
+  "end": 77.595
+ },
+ {
+  "word": "sounds",
+  "isFinal": true,
+  "start": 77.645,
+  "end": 77.989
+ },
+ {
+  "word": "like",
+  "isFinal": true,
+  "start": 78.039,
+  "end": 78.353
+ },
+ {
+  "word": "real",
+  "isFinal": true,
+  "start": 78.403,
+  "end": 78.817
+ },
+ {
+  "word": "person",
+  "isFinal": true,
+  "start": 78.867,
+  "end": 79.213
+ },
+ {
+  "word": "thanks",
+  "isFinal": true,
+  "start": 79.263,
+  "end": 79.591
+ },
+ {
+  "word": "for",
+  "isFinal": true,
+  "start": 79.641,
+  "end": 79.879
+ },
+ {
+  "word": "watching",
+  "isFinal": true,
+  "start": 79.929,
+  "end": 80.269
+ },
+ {
+  "word": "until",
+  "isFinal": true,
+  "start": 80.319,
+  "end": 80.586
+ },
+ {
+  "word": "thex",
+  "isFinal": true,
+  "start": 80.636,
+  "end": 80.953
+ },
+ {
+  "word": "end",
+  "isFinal": true,
+  "start": 81.003,
+  "end": 81.223
+ },
+ {
+  "word": "see",
+  "isFinal": true,
+  "start": 81.273,
+  "end": 81.574
+ },
+ {
+  "word": "you",
+  "isFinal": true,
+  "start": 81.624,
+  "end": 82.029
+ },
+ {
+  "word": "in",
+  "isFinal": true,
+  "start": 82.079,
+  "end": 82.418
+ },
+ {
+  "word": "thex",
+  "isFinal": true,
+  "start": 82.468,
+  "end": 82.881
+ },
+ {
+  "word": "next",
+  "isFinal": true,
+  "start": 82.931,
+  "end": 83.365
+ },
+ {
+  "word": "video",
+  "isFinal": true,
+  "start": 83.415,
+  "end": 83.653
+ },
+ {
+  "word": "and",
+  "isFinal": true,
+  "start": 83.703,
+  "end": 84.081
+ },
+ {
+  "word": "keep",
+  "isFinal": true,
+  "start": 84.131,
+  "end": 84.389
+ },
+ {
+  "word": "creating",
+  "isFinal": true,
+  "start": 84.439,
+  "end": 84.773
+ }
+]

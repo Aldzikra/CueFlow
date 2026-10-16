@@ -1,0 +1,8 @@
+{
+ "script": "scripts/id_01.txt",
+ "lang": "id",
+ "finalCursor": 200,
+ "modes": [
+  "tracking"
+ ]
+}

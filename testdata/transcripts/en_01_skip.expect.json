@@ -1,0 +1,10 @@
+{
+ "script": "scripts/en_01.txt",
+ "lang": "en",
+ "finalCursor": 235,
+ "modes": [
+  "tracking",
+  "jumped",
+  "tracking"
+ ]
+}
