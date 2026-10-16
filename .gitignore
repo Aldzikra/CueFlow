@@ -1,3 +1,8 @@
 .env
 /bin/
 *.test
+.task
+bin
+frontend/dist
+frontend/node_modules
+build/linux/appimage/build

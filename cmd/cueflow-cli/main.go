@@ -4,14 +4,12 @@
 package main
 
 import (
-	"bufio"
 	"context"
 	"encoding/json"
 	"flag"
 	"fmt"
 	"os"
 	"os/signal"
-	"strings"
 	"time"
 
 	"github.com/Aldzikra/cueflow/internal/align"
@@ -105,7 +103,7 @@ func runReplay(scriptPath, transPath string, lang normalize.Lang) error {
 }
 
 func runLive(scriptPath string, lang normalize.Lang, device int) error {
-	key := apiKey()
+	key := stt.APIKey()
 	if key == "" {
 		return fmt.Errorf("DEEPGRAM_API_KEY not set (env or .env)")
 	}
@@ -151,25 +149,6 @@ func runLive(scriptPath string, lang normalize.Lang, device int) error {
 		return err
 	}
 	return nil
-}
-
-// apiKey reads DEEPGRAM_API_KEY from the environment, falling back to .env.
-func apiKey() string {
-	if k := os.Getenv("DEEPGRAM_API_KEY"); k != "" {
-		return k
-	}
-	f, err := os.Open(".env")
-	if err != nil {
-		return ""
-	}
-	defer f.Close()
-	sc := bufio.NewScanner(f)
-	for sc.Scan() {
-		if k, ok := strings.CutPrefix(strings.TrimSpace(sc.Text()), "DEEPGRAM_API_KEY="); ok {
-			return strings.Trim(k, `"'`)
-		}
-	}
-	return ""
 }
 
 // recvWords forwards words and prints a one-time hint if none arrive before

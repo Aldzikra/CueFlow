@@ -3,12 +3,15 @@
 package stt
 
 import (
+	"bufio"
 	"context"
 	"encoding/json"
 	"errors"
 	"fmt"
 	"net/http"
 	"net/url"
+	"os"
+	"strings"
 	"time"
 
 	"github.com/coder/websocket"
@@ -188,4 +191,23 @@ func session(ctx context.Context, cfg Config, audio <-chan []byte, out chan<- Wo
 			}
 		}
 	}
+}
+
+// APIKey reads DEEPGRAM_API_KEY from the environment, falling back to ./.env.
+func APIKey() string {
+	if k := os.Getenv("DEEPGRAM_API_KEY"); k != "" {
+		return k
+	}
+	f, err := os.Open(".env")
+	if err != nil {
+		return ""
+	}
+	defer f.Close()
+	sc := bufio.NewScanner(f)
+	for sc.Scan() {
+		if k, ok := strings.CutPrefix(strings.TrimSpace(sc.Text()), "DEEPGRAM_API_KEY="); ok {
+			return strings.Trim(k, `"'`)
+		}
+	}
+	return ""
 }

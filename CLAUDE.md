@@ -54,7 +54,7 @@ go test ./internal/align/ -run X -v
 go vet ./...
 wails3 dev                         # run app with hot reload
 GDK_BACKEND=x11 wails3 dev         # run under XWayland (required for overlay testing on Wayland)
-wails3 build
+wails3 build                        # frontend bindings: wails3 generate bindings -ts (regenerates frontend/bindings)
 go run ./cmd/cueflow-cli --script testdata/scripts/id_01.txt --transcript testdata/transcripts/id_01_improv.json
 go run ./testdata/gen              # regenerate testdata/transcripts from scripts
 go run ./cmd/cueflow-cli --list-devices
